@@ -32,3 +32,5 @@
 ## Dashboard Preview
 - Dashboard
 - Superstore-Sales-Dashboard.png
+ [Superstore-Sales-Dashboard.png]
+  
